@@ -1,4 +1,4 @@
-A local storage Note Taking App
+## A local storage Note Taking App
 ## Specifications
 - Has support for creating multiple notes.
 - Within a note, you can write any text.
