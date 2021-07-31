@@ -1,15 +1,4 @@
-# GetYourMentor Frontend project - Beginner/1
-
-## DEMO LINK
-https://noteshd.netlify.app/
-
-## Target
-
 Build a note taking app.
-
-## Design
-https://collectui.com/designers/adriengervaix/notes-widget
-
 ## Specifications
 - As show in the design, the app should provide support for creating multiple notes.
 - Within a note, you can write any text.
