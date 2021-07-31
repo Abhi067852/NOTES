@@ -1,6 +1,6 @@
-Build a note taking app.
+A local storage Note Taking App
 ## Specifications
-- As show in the design, the app should provide support for creating multiple notes.
+- Has support for creating multiple notes.
 - Within a note, you can write any text.
 - Each note should have a "title" and the actual "note".
 - You should be able to save any note.
@@ -8,8 +8,6 @@ Build a note taking app.
 - Left sidebar lists all saved notes...showing their title and first few characters.
 - Clicking on any note in the left sidebar shows the note in the right side area.
 - Left sidebar also has a "New note" button which creates a new note with title as "Untitled Note".
-
-## Added Specifications
 - Delete Button to delete currently open note
 - Auto delete notes with empty title and content
 - Not to allow creation of new note if last added note is empty
